@@ -8,9 +8,3 @@ Play Rock Paper Scissors against the computer in a stylish animated game!
 - Computer "thinking" animation before choosing
 - Custom modal alert with round result
 - Hover effects and interactive UI
-
-
-## 🚀 How to Play
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
